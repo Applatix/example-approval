@@ -58,6 +58,8 @@ notifications:
       - on_failure
       - on_change
     whom:
+      - dinar@applatix.com
+      - saradhis@applatix.com
       - hong@applatix.com
 when:
   -
